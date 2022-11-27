@@ -32,7 +32,6 @@ Updated wiki.md
 
 Updated wiki.md
 
-Updated RebootOS.lua
 
 
 
