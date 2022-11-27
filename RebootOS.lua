@@ -1,3 +1,13 @@
+Var1 = nil
+
+print("Reboot_OS-v1.0.0-Release")
+print("1 = NO")
+print("2 = YES")
+print("Are You Sure?")
+Var1 = read
+
+If Var1 = 2 then
+
 ---------------------------------------- System initialization ----------------------------------------
 
 -- Obtaining boot filesystem component proxy
@@ -231,3 +241,13 @@ while true do
 		workspace:draw()
 	end
 end
+	end
+
+If Var1 = 1 then
+	
+print("Reboot Canceled")
+	
+	end
+
+
+
