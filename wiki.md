@@ -6,7 +6,7 @@
 
 2-How To Install MineOS
 
-3-???
+3-About
 
 4-???
 
@@ -37,3 +37,7 @@ NOTE: Place At HDD That MineOS Are Instaled
 2.2 Copy The Command(wget -f https://raw.githubusercontent.com/IgorTimofeev/MineOS/master/Installer/BIOS.lua /tmp/bios.lua && flash -q /tmp/bios.lua && reboot)
 
 2.3 Paste The Command On The Minecraft
+
+# 3-About
+
+3.1 You Can Download The wiki.md file That Contains All the Wiki Text
