@@ -15,3 +15,17 @@ Updated README.md
 Added Changelog.md
 
 Updated README.md
+
+# v1.1.0-beta
+
+Created wiki.md
+
+Updated README.md
+
+# v1.1.1-beta
+
+Updated Changelog.md
+
+Updated wiki.md
+
+
