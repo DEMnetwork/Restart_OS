@@ -28,4 +28,11 @@ Updated Changelog.md
 
 Updated wiki.md
 
+# v1.0.0-Release
+
+Updated wiki.md
+
+Updated RebootOS.lua
+
+
 
