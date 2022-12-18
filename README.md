@@ -9,7 +9,7 @@ For Beta And Releases Versions You Can Donwload The RebootOS.lua
 
 # Install
 
-Read The Wiki
+Read The [Wiki](https://github.com/DEMnetwork/Restart_OS/wiki)
 
 # Issues
 
